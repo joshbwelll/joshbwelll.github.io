@@ -3,8 +3,8 @@
 #### Skills: Python, SQL, Power BI, Tableau, Power Platform, Jira 
 
 ### Education
-- B.S., Industrial & Systems Engineering|NCAT
-- North Carolina A&T State University
+#### North Carolina A&T State University
+- B.S., Industrial & Systems Engineering |
 
 ### Work Experience 
 Data Analyst @ Cisco Systems
