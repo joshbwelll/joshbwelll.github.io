@@ -1,9 +1,10 @@
 # Data Analyst
 
-#### Skills: Python, SQL, Power BI, Tableau, Power Automate, Power Apps, Jira 
+#### Skills: Python, SQL, Power BI, Tableau, Power Platform, Jira 
 
 ### Education
-- B.S., Industrial & Systems Engineering | NCAT
+- B.S., Industrial & Systems Engineering|NCAT
+- North Carolina A&T State University
 
 ### Work Experience 
 Data Analyst @ Cisco Systems
