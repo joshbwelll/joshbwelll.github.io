@@ -1,6 +1,7 @@
 # Data Analyst
 
-#### Skills: Python, SQL, Power BI, Tableau, Power Platform, Jira 
+#### Skills: Python, SQL, Power BI, Tableau, Power Platform, Jira
+#### View My LinkedIn: [linkined.com](http://linkedin.com/))
 
 ### Education
 #### North Carolina A&T State University
