@@ -1,11 +1,11 @@
 # Data Analyst
 
-[Connect with me on LinkedIn !](https://www.linkedin.com/in/joshua-blackwell-853421129/)
+[Connect with me on LinkedIn](https://www.linkedin.com/in/joshua-blackwell-853421129/)
 
 #### Skills: Python, SQL, Power BI, Tableau, Power Platform, Jira, dbt, Docker, Snowflake
 
 
-### Interests: Data Engineering, Product Mangement, Analytic engineering, Analyst roles
+#### Interests: Data Engineering, Product Mangement, Analytic engineering, Analyst roles
 
 ### Work Experience 
 Data Analyst @ Cisco Systems
