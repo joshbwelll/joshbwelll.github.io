@@ -22,6 +22,5 @@ Data Analyst @ Cisco Systems
 
 
 ### Education
-#### North Carolina A&T State University
-- B.S., Industrial & Systems Engineering |
+#### North Carolina A&T State University -- B.S., Industrial & Systems Engineering 
   
