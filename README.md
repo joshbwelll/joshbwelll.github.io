@@ -1,10 +1,9 @@
 # Data Analyst
 
-#### Skills: Python, SQL, Power BI, Tableau, Power Platform, Jira
+#### Skills: Python, SQL, Power BI, Tableau, Power Platform, Jira, dbt, Docker, Snowflake
 
-### Education
-#### North Carolina A&T State University
-- B.S., Industrial & Systems Engineering |
+
+### Interests: Data Engineering, Product Mangement, Analytic engineering, Analyst roles
 
 ### Work Experience 
 Data Analyst @ Cisco Systems
@@ -20,4 +19,9 @@ Data Analyst @ Cisco Systems
 - Time Series Project, (sql) 
 - Finance Sales Project, (python, sql, power bi)
 - Airline Pricing Machine Learning Project, (python, power bi)
+
+
+### Education
+#### North Carolina A&T State University
+- B.S., Industrial & Systems Engineering |
   
