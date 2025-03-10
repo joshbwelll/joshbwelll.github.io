@@ -1,5 +1,7 @@
 # Data Analyst
 
+[Connect with me on Linkedin !](https://www.linkedin.com/in/joshua-blackwell-853421129/)
+
 #### Skills: Python, SQL, Power BI, Tableau, Power Platform, Jira, dbt, Docker, Snowflake
 
 
