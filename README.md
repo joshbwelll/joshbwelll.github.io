@@ -8,7 +8,7 @@
 #### Interests: Data Engineering, Product Mangement, Analytic engineering, Analyst roles
 
 ### Work Experience 
-Data Analyst @ Cisco Systems
+Business / Data Analyst @ Cisco Systems
 - Built automated data pipeline for stakeholder’s Program Release report by creating web scraping script to extract Quip spreadsheets from 10+ Quip sites using Quip API, python (For Loop, quipclient, get_thread, requests, re, pandas, read_html) and MySQL to store the data
 - Managed 3 Red Badge Portal apps via Power Apps, utilized by hiring managers to create requests, approvals, renewals for contracted hires
 - Data quality tested and validated my org’s GitHub extracted data by random sampling the data in MySQL (used WHERE, COUNT, CASE)  
@@ -18,9 +18,9 @@ Data Analyst @ Cisco Systems
 - Developed python script using Pandas/NumPy to automate data manipulation and cleansing of 3 HR data sets containing more than 50+ columns and 30,000+ rows, that resulted in saving my team $5,000 in a software subscription
 
 ### Projects
-- Time Series Project, (sql) 
-- Finance Sales Project, (python, sql, power bi)
-- Airline Pricing Machine Learning Project, (python, power bi)
+- Subscription Cancelation Analysis, (sql, hex, snowflake, power bi) 
+- Payment Funnel Analysis, (sql, hex, snowflake, Tableau, Power BI)
+- Delivery Insights Hub, (python, sql, Tableau)
 
 
 ### Education
