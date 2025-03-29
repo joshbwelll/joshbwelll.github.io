@@ -25,7 +25,7 @@ Business / Data Analyst @ Cisco Systems
 ![image](https://github.com/user-attachments/assets/f6096c42-64e8-47f2-b289-cc31530afcc2)
 
 - Payment Funnel Analysis, (sql, hex, snowflake, Tableau, Power BI)
-- Delivery Insights Hub, (python, sql, Tableau)
+- Delivery Insights Hub, (python, sql, Tableau) [In Development]
 
 
 ### Education
