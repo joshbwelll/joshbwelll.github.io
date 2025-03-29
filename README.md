@@ -18,7 +18,10 @@ Business / Data Analyst @ Cisco Systems
 - Developed python script using Pandas/NumPy to automate data manipulation and cleansing of 3 HR data sets containing more than 50+ columns and 30,000+ rows, that resulted in saving my team $5,000 in a software subscription
 
 ### Projects
-- Subscription Cancelation Analysis, (sql, hex, snowflake, power bi) 
+- Subscription Cancelation Analysis, (SQL, HEX, Snowflake, Power BI) [view details](https://github.com/joshbwelll/Subscription-Cancelation-Analysis/blob/main/README.md#subscription-cancelation-analysis)
+
+![image](https://github.com/user-attachments/assets/f6096c42-64e8-47f2-b289-cc31530afcc2)
+
 - Payment Funnel Analysis, (sql, hex, snowflake, Tableau, Power BI)
 - Delivery Insights Hub, (python, sql, Tableau)
 
