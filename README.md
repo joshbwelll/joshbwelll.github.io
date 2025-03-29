@@ -17,6 +17,8 @@ Business / Data Analyst @ Cisco Systems
 - Created employee check-in interactive dashboard that is time focused via Tableau and later transitioned to Power BI
 - Developed python script using Pandas/NumPy to automate data manipulation and cleansing of 3 HR data sets containing more than 50+ columns and 30,000+ rows, that resulted in saving my team $5,000 in a software subscription
 
+# Portfolio
+
 ### Projects
 - Subscription Cancelation Analysis, (SQL, HEX, Snowflake, Power BI) [view details](https://github.com/joshbwelll/Subscription-Cancelation-Analysis/blob/main/README.md#subscription-cancelation-analysis)
 
