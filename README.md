@@ -2,32 +2,50 @@
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/joshua-blackwell-853421129/)
 
-#### Skills: Python, SQL, Power BI, Tableau, Power Platform, Jira, dbt, Docker, Snowflake
+#### SKILLS: Python, SQL, Power BI, Tableau, Power Platform, Jira, dbt, Docker, Snowflake
 
 
-#### Interests: Data Engineering, Product Mangement, Analytic engineering, Analyst roles
+#### INTEREST: Data Engineering, Product Mangement, Analytic engineering, Analyst roles
 
-### Work Experience 
+### WORK EXPERIENCE 
 Business / Data Analyst @ Cisco Systems
-- Built automated data pipeline for stakeholder’s Program Release report by creating web scraping script to extract Quip spreadsheets from 10+ Quip sites using Quip API, python (For Loop, quipclient, get_thread, requests, re, pandas, read_html) and MySQL to store the data
-- Managed 3 Red Badge Portal apps via Power Apps, utilized by hiring managers to create requests, approvals, renewals for contracted hires
-- Data quality tested and validated my org’s GitHub extracted data by random sampling the data in MySQL (used WHERE, COUNT, CASE)  
-- Power Automate flows created: automated weekly Power BI Report snapshot process. Scheduled emails alerts based on Power BI data statuses. Jira Cloud ticket creation automation utilizing intake form (Microsoft forms). SharePoint List automations: data extraction, update/delete data based on user condition, send an email based on new entry of rows submitted and displaying it as a html table.  
-- Built live connection data-source for Program release tracking dashboard uses time and defect metrics via Tableau (Union and datediff)
-- Created employee check-in interactive dashboard that is time focused via Tableau and later transitioned to Power BI
-- Developed python script using Pandas/NumPy to automate data manipulation and cleansing of 3 HR data sets containing more than 50+ columns and 30,000+ rows, that resulted in saving my team $5,000 in a software subscription
+* Built Power BI reports based on multiple SharePoint Lists for IT services stakeholders. Conducted Exploratory data analysis which led to identifying key patterns in churn rates per service offerings and a 40% increase in data quality, driving more informed business decisions for IT services leaders 
 
-# Portfolio
+* Built web scraping script to extract data from Quip Spreadsheets to Power BI dashboard. Script is scalable and automated. Iterates daily through 10+ sites using the “url_thread_ids”, Quip API, python, and MySQL
 
-### Projects
-- Subscription Cancelation Analysis, (SQL, HEX, Snowflake, Power BI) [view details](https://github.com/joshbwelll/Subscription-Cancelation-Analysis/blob/main/README.md#subscription-cancelation-analysis)
+* Managed and enhanced 3 Portal apps via Power Apps, empowering 80+ hiring managers to create requests, approvals, renewals for contracted hires, this led to a decrease in data processing errors, an increase in data governance and renewals processing
+
+* Conducted random sampling on 20% of my org’s GitHub data in MySQL (WHERE, COUNT CASE WHEN, DATE_TRUNC), ensuring data accuracy/quality and enhancing the reliability of analytical insights for future reporting
+
+* Built real-time Engineering Program Release dashboard (Tableau), to track datetime and program development metrics
+
+* Created Workday employee check-in interactive dashboard (date focused), displayed week over week trend in change on org leaders/directs to enable leadership engagement visibility. Based in Tableau / Power BI
+
+* Developed python script using NumPy & Pandas to automate data analysis and cleansing of 3 HR data sets containing more than 50 columns and 100,000+ rows, which resulted in saving my team $5,000 in a software subscription
+
+* Co-lead the branding and design transformation of CPX's executive program reporting
+
+* Automated manual downloads and upload of Jira Eng. Backlog exports to sftp by using python (pandas, excel writer, pysftp)
+
+* Automation of ad-hoc tasks: automated weekly Power BI Report snapshot process. Scheduled email alerts based on Power BI data SLA statuses. Jira ticket creation automation utilizing requests and access intake form (Microsoft forms). SharePoint List: data extraction, update/delete data based on user condition, send email based on new entries of rows submitted
+
+* Collaborated with cross-functional teams to develop and implement an acquisition dashboard, resulting in gaining trust from key stakeholders and earned several future business intelligence reporting requests
+
+* Lead Agile transformation on my team to manage how we do work by using Jira Kanban/Sprint boards and cultivating best practices for ticket writing, which led to a 60% increase in team productivity and agile environment
+
+
+
+# PORTFOLIO
+
+### PROJECTs
+- Subscription Cancelation Analysis for SaaS Company, (SQL, HEX, Snowflake, Power BI) [view details](https://github.com/joshbwelll/Subscription-Cancelation-Analysis/blob/main/README.md#subscription-cancelation-analysis)
 
 ![image](https://github.com/user-attachments/assets/f6096c42-64e8-47f2-b289-cc31530afcc2)
 
-- Payment Funnel Analysis, (sql, hex, snowflake, Tableau, Power BI)
+- FinTech Payment Funnel Analysis, (sql, hex, snowflake, Tableau, Power BI) **[In Development]**
 - Delivery Insights Hub, (python, sql, Tableau) **[In Development]**
 
 
-### Education
+
+### EDUCATION
 #### North Carolina A&T State University -- B.S., Industrial & Systems Engineering 
-  
