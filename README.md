@@ -42,8 +42,8 @@ Business / Data Analyst @ Cisco Systems
 
 ![image](https://github.com/user-attachments/assets/f6096c42-64e8-47f2-b289-cc31530afcc2)
 
-- FinTech Payment Funnel Analysis, (sql, hex, snowflake, Tableau, Power BI) **[In Development]**
-- Delivery Insights Hub, (python, sql, Tableau) **[In Development]**
+- FinTech Payment Funnel Analysis, (SQL, HEX, Snowflake, Tableau) **[In Development]**
+- Delivery Insights Hub, (Python, SQL, Tableau) **[In Development]**
 
 
 
