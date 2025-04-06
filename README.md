@@ -37,7 +37,7 @@ Business / Data Analyst @ Cisco Systems
 
 # PORTFOLIO
 
-### PROJECTs
+### PROJECTS
 - Subscription Cancelation Analysis for SaaS Company, (SQL, HEX, Snowflake, Power BI) [view details](https://github.com/joshbwelll/Subscription-Cancelation-Analysis/blob/main/README.md#subscription-cancelation-analysis)
 
 ![image](https://github.com/user-attachments/assets/f6096c42-64e8-47f2-b289-cc31530afcc2)
