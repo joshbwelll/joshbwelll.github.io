@@ -2,7 +2,7 @@
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/joshua-blackwell-853421129/)
 
-#### SKILLS: Python, SQL, Power BI, Tableau, Power Platform, Jira, dbt, Docker, Snowflake
+#### SKILLS: ETL, ELT, Python, PySpark, SQL, Power BI, Tableau, Excel, GitHub, Snowflake, dbt, Docker, Power Platform, Airflow
 
 
 #### INTEREST: Data Engineering, Product Mangement, Analytic engineering, Analyst roles
@@ -13,7 +13,7 @@ Business / Data Analyst @ Cisco Systems
 
 * Built web scraping script to extract data from Quip Spreadsheets to Power BI dashboard. Script is scalable and automated. Iterates daily through 10+ sites using the “url_thread_ids”, Quip API, python, and MySQL
 
-* Managed and enhanced 3 Portal apps via Power Apps, empowering 80+ hiring managers to create requests, approvals, renewals for contracted hires, this led to a decrease in data processing errors, an increase in data governance and renewals processing
+* Managed and enhanced 3 Portal apps via Power Apps, empowering 80+ hiring managers to create requests, approvals, renewals for contracted hires, this led to a decrease in data processing errors, an increase in data governance and renewals processing, built vendor rate card highlighting role-based financial metrics across US and India vendors
 
 * Conducted random sampling on 20% of my org’s GitHub data in MySQL (WHERE, COUNT CASE WHEN, DATE_TRUNC), ensuring data accuracy/quality and enhancing the reliability of analytical insights for future reporting
 
@@ -29,7 +29,7 @@ Business / Data Analyst @ Cisco Systems
 
 * Automation of ad-hoc tasks: automated weekly Power BI Report snapshot process. Scheduled email alerts based on Power BI data SLA statuses. Jira ticket creation automation utilizing requests and access intake form (Microsoft forms). SharePoint List: data extraction, update/delete data based on user condition, send email based on new entries of rows submitted
 
-* Collaborated with cross-functional teams to develop and implement an acquisition dashboard, resulting in gaining trust from key stakeholders and earned several future business intelligence reporting requests
+* Partnered with Finance and HR teams to develop and implement an acquisition dashboard, resulting in earning trust from key stakeholders and several future requests for business intelligence reporting 
 
 * Lead Agile transformation on my team to manage how we do work by using Jira Kanban/Sprint boards and cultivating best practices for ticket writing, which led to a 60% increase in team productivity and agile environment
 
