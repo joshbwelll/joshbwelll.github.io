@@ -13,7 +13,7 @@
 ### PROJECTS
 - E-commerce Analytics Project (dbt + DuckD) [View details](https://github.com/joshbwelll/dbt-Ecommerce-Analytics-Project)
 
-![image](https://github.com/user-attachments/assets/01261a72-c36b-4b71-adc7-703bb4ebce85)
+<img width="782" alt="image" src="https://github.com/user-attachments/assets/e6e05c0f-93e5-43e7-8bf2-79d74065722d" />
 
 
 - Subscription Cancelation Analysis for SaaS Company, (SQL, HEX, Snowflake, Power BI) [View details](https://github.com/joshbwelll/Subscription-Cancelation-Analysis/blob/main/README.md#subscription-cancelation-analysis)
